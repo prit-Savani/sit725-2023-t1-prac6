@@ -1,0 +1,21 @@
+{
+  "name": "sit725-prac6",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha --reporter spec",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "npm install npm init npm install express",
+  "dependencies": {
+    "chai": "^4.3.10",
+    "express": "^4.18.2",
+    "mocha": "^10.2.0",
+    "request": "^2.88.2"
+  },
+  "directories": {
+    "test": "test"
+  }
+}
